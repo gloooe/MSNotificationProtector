@@ -1,9 +1,4 @@
 # MSNotificationProtector
-No intrusive automatic removal of notifications added below iOS9
-
-![](NSNotificationCenterApple.png)
-[https://developer.apple.com/library/archive/releasenotes/Foundation/RN-FoundationOlderNotes/index.html#10_11NotificationCenter](https://developer.apple.com/library/archive/releasenotes/Foundation/RN-FoundationOlderNotes/index.html#10_11NotificationCenter)
-
 
 [![platform](http://img.shields.io/cocoapods/p/YYKit.svg?style=flat)](https://www.apple.com/nl/ios/)
 [![GitHub license](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat)](https://github.com/JZJJZJ/MSNotificationProtector/blob/master/LICENSE)
@@ -11,6 +6,10 @@ No intrusive automatic removal of notifications added below iOS9
 [![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&logo=github&label=Stars)](https://github.com/JZJJZJ/MSNotificationProtector.git)
 
 
+No intrusive automatic removal of notifications added below iOS9
+
+![](NSNotificationCenterApple.png)
+[https://developer.apple.com/library/archive/releasenotes/Foundation/RN-FoundationOlderNotes/index.html#10_11NotificationCenter](https://developer.apple.com/library/archive/releasenotes/Foundation/RN-FoundationOlderNotes/index.html#10_11NotificationCenter)
 
 ## Installation
 
