@@ -20,7 +20,6 @@ static pthread_mutex_t lock;//结构体
 + (void)load{
     
     //iOS 9开始系统会自动为我们移除通知   但是 7 8 都会立即崩溃 所以只交换9以下
-    // iOS 9.0 NSNotificationCenter and NSDistributedNotificationCenter will no longer send notifications to registered observers that may be deallocated.
     if (NSFoundationVersionNumber <= NSFoundationVersionNumber_iOS_9_0) {
         
         [self swizzleInstanceSelector:@selector(addObserver:selector:name:object:) withNewSelector:@selector(msAddObserver:selector:name:object:)];

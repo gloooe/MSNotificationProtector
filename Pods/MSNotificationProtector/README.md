@@ -7,7 +7,7 @@ No intrusive automatic removal of notifications added below iOS9
 
 [![platform](http://img.shields.io/cocoapods/p/YYKit.svg?style=flat)](https://www.apple.com/nl/ios/)
 [![GitHub license](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat)](https://github.com/JZJJZJ/MSNotificationProtector/blob/master/LICENSE)
-[![CocoaPods](https://img.shields.io/cocoapods/v/AFNetworking.svg)](https://github.com/JZJJZJ/MSNotificationProtector.git)
+[![CocoaPods]( https://img.shields.io/github/stars/badges/shields.svg?style=social&logo=github&label=Stars)](https://github.com/JZJJZJ/MSNotificationProtector.git)
 [![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&logo=github&label=Stars)](https://github.com/JZJJZJ/MSNotificationProtector.git)
 
 
