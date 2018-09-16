@@ -8,7 +8,7 @@
 
 No intrusive automatic removal of notifications added below iOS9
 
-![](NSNotificationCenterApple.pdf)
+![](NSNotificationCenterApple.png)
 [https://developer.apple.com/library/archive/releasenotes/Foundation/RN-FoundationOlderNotes/index.html#10_11NotificationCenter](https://developer.apple.com/library/archive/releasenotes/Foundation/RN-FoundationOlderNotes/index.html#10_11NotificationCenter)
 
 ## Installation
